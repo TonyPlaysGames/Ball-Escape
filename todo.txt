@@ -1,0 +1,57 @@
+
+Game features-
+#. Fix map scaling feature from 2x to 1x 
+#. Spawn boundaries dependent on map type
+#. Set it so obstacles cant spawn in inacessable areas
+4. Ability to move between rooms
+5. Interaction and collisions with obstacles and walls
+6. If player hit ball, mine, or other hostile enemy player dies and game ends
+7. Visual effect from direction ball in
+#. Can only see discovered map parts
+9. POSSIBLE? CHANGE TO SPRITE SHEET?
+
+Possible if time allows-
+1. Screen shake on ball enter
+2. FOV based on Flashlight? Cant see past obstacles?
+3. Prevent inacessable rooms from spawning?
+4. Find keys/the door to escape the maze?
+5. Allow short amount of sprinting?
+
+
+
+GUI/User interface-
+1. Scaleable buttons on minimap* 
+2. Main title screen 
+3. Settings menu (change max and sfx volume)
+4. Difficulty settings
+5. Get human key input for player
+6. Show player current location on map with dot
+7. Show estimated enemy location on map with circle of possiblilty
+8. Have circle fade out after a few seconds
+
+
+
+
+
+
+Required assets;
+
+Sound effects-
+1. Clunking and walking sound effects to signal ball in a different room
+2. Screeching as ball enters room player is in
+3. Footsetps for player (can be a crunching or a tap, not even footseps)
+4. Cave/Maze ambiance 
+5. Water dripping (ambiance)
+6. Mine exploding
+7. Walking through a puddle
+8. TV static noise
+
+Textures-
+1. Redo All minimap temp files
+2. Make good looking map background
+3. Redo temp obstacle files
+4. (Possible, new stone background?)
+5. Find wall tilable file
+6. Player Texture
+7. Ball texture
+8. [Any textures that the main/settings menu requires]
